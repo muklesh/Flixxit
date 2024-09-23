@@ -33,7 +33,7 @@ Flixxit is an OTT (Over The Top Platform) app that allows users to browse and wa
 Clone the project
 
 ```bash
-  git clone https://github.com/omidhokate2002/flixxit
+  git clone https://github.com/muklesh/Flixxit.git
 ```
 
 Go to the project directory
@@ -104,8 +104,6 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [@omidhokate2002](https://github.com/omidhokate2002)
+- [@mukleshkumar](https://github.com/muklesh)
 
   
-## Contributors
-- Vishnu Divakaran ([@vishnumd91](https://github.com/vishnumd91)): Razorpay Integration
